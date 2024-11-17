@@ -281,7 +281,6 @@
       "isActive": true,
       "description": "iOS Mobile App",
       "highlights": [
-        ""
       ],
       "url": ""
     },
@@ -290,7 +289,6 @@
       "isActive": true,
       "description": "iOS Mobile App",
       "highlights": [
-        ""
       ],
       "url": "https://apps.apple.com/tr/app/hepiyi-sigorta/id6451968275"
     },
@@ -299,7 +297,6 @@
       "isActive": true,
       "description": "Koç Holding Office Reservation Platform",
       "highlights": [
-        "Built with Swift and SwiftUI"
       ],
       "url": "https://apps.apple.com/tr/app/ko%C3%A7-office-free/id1571499394"
     },
@@ -308,7 +305,6 @@
       "isActive": true,
       "description": "Yapı Kredi HR Mobile App",
       "highlights": [
-        "Built with Swift and SwiftUI"
       ],
       "url": "https://play.google.com/store/apps/details?id=com.ykb.dinamik&hl=tr&pli=1"
     },
@@ -317,7 +313,6 @@
       "isActive": true,
       "description": "Yapı Kredi Bank Retirement Fund Foundation",
       "highlights": [
-        "Built with Swift and SwiftUI"
       ],
       "url": "https://apps.apple.com/tr/app/esv-mobil/id1609917748"
     }
