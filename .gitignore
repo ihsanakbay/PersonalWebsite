@@ -26,3 +26,4 @@ pnpm-debug.log*
 bun.lockb
 pnpm-lock.yml
 package-lock.json
+.vercel
