@@ -54,7 +54,7 @@
       "position": "Software Developer",
       "location_type": "Hybrid",
       "location": "Ankara, Turkey",
-      "url": "https://innovativesolutions.com",
+      "url": "https://www.etiya.com",
       "startDate": "2023-11",
       "endDate": "2024-05",
       "summary": "",
@@ -73,6 +73,7 @@
       "position": "iOS Developer",
       "location_type": "Remote",
       "location": "Kocaeli, Turkey",
+      "url": "https://www.ykteknoloji.com.tr",
       "startDate": "2023-03",
       "endDate": "2023-10",
       "summary": "",
@@ -94,6 +95,7 @@
       "position": "Software Developer",
       "location_type": "On-Site",
       "location": "Tekirdağ, Turkey",
+      "url": "https://www.polifarma.com.tr",
       "startDate": "2019-04",
       "endDate": "2023-03",
       "summary": "",
@@ -276,7 +278,7 @@
       "isActive": true,
       "description": "iOS Mobile App",
       "highlights": [
-        "Built with Swift and SwiftUI"
+        ""
       ],
       "url": ""
     },
@@ -285,7 +287,7 @@
       "isActive": true,
       "description": "iOS Mobile App",
       "highlights": [
-        "Built with Swift and SwiftUI"
+        ""
       ],
       "url": "https://apps.apple.com/tr/app/hepiyi-sigorta/id6451968275"
     },
