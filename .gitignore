@@ -22,3 +22,7 @@ pnpm-debug.log*
 
 # local folders
 .history
+
+bun.lockb
+pnpm-lock.yml
+package-lock.json
