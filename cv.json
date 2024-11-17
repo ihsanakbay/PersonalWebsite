@@ -68,7 +68,8 @@
         "Java",
         "Spring Boot",
         "SQL",
-        "Bitbucket"
+        "Bitbucket",
+        "Postgresql"
       ]
     },
     {
@@ -127,8 +128,6 @@
       "endDate": "2018",
       "score": "",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
       ]
     }
   ],
