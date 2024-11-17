@@ -1,259 +1,228 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "name": "İhsan Akbay",
+    "label": "iOS Developer",
+    "image": "/me_avatar.png",
+    "email": "ihsankabaydev@gmail.com",
+    "phone": "+90 (546) 859 5907",
+    "url": "https://ihsanakbay.dev",
+    "summary": "I'm a Software Developer who loves to build experiences that help people do what they couldn't do before. I feel fulfilled when using my skills to do so. Currently, I work as an iOS Developer at Enqura. In my previous roles, I specialized in developing iOS Applications\nand Backend Services. I graduated with a degree in Engineering, which has provided me with a solid foundation\nin problem-solving and innovation. I firmly believe that being an engineer is not only a profession but also a lifelong hobby.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "",
+      "city": "Ankara",
+      "countryCode": "TR",
+      "region": "Turkey"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "ihsanakbay",
+        "url": "https://linkedin.com/in/ihsanakbay"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "ihsanakbay",
+        "url": "https://github.com/ihsanakbay"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Enqura Information Technologies",
+      "position": "iOS Developer",
+      "location_type": "Remote",
+      "location": "Ankara, Turkey",
+      "url": "https://www.enqura.com/",
+      "startDate": "2024-06",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
+      "summary": "",
       "responsibilities": [
         "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
         "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
         "Participated in code reviews and contributed to improving coding standards within the team."
       ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Swift",
+        "SwiftUI",
+        "UIKit"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
+      "name": "Etiya Information Technologies",
+      "position": "Software Developer",
       "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
+      "location": "Ankara, Turkey",
       "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
+      "startDate": "2023-11",
+      "endDate": "2024-05",
+      "summary": "",
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Worked as a Senior Java Backend Developer for Videotron (videotron.com), one\nof Canada's top telecom companies."
       ],
       "skills": [
-        "Python",
-        "Django",
+        "Java",
+        "Spring Boot",
         "SQL",
-        "Git"
+        "Bitbucket"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "Yapı Kredi Technology",
+      "position": "iOS Developer",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
+      "location": "Kocaeli, Turkey",
+      "startDate": "2023-03",
+      "endDate": "2023-10",
+      "summary": "",
+      "responsibilities": [
+        "Developed and maintained iOS applications using Swift, UIKit, SwiftUI, and 3rd-\nparty libraries.",
+        "MVVM, MVVM-C & VIPER architectures were used.",
+        "Participated in the AppStore submission processes, ensuring compliance with\nApple's guidelines.",
+        "Utilized Figma and Zeplin to collaborate closely with the UI/UX design team,\nensuring seamless integration of design elements into iOS applications.",
+        "Collaborated with cross-functional teams in an Agile environment, contributing to\ndaily Stand-up meetings, Sprint Planning, and Retrospectives."
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Swift",
+        "UIKit",
+        "SwiftUI"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+      "name": "Polifarma Pharmaceutical Industry & Trade Inc.",
+      "position": "Software Developer",
+      "location_type": "On-Site",
+      "location": "Tekirdağ, Turkey",
+      "startDate": "2019-04",
+      "endDate": "2023-03",
+      "summary": "",
+      "responsibilities": [
+        "Developed and maintained iOS applications using Swift, UIKit, SwiftUI, and 3rd-\nparty libraries without using Storyboards.",
+        "UI/UX Design tools such as Zeplin and Sketch were used.",
+        "Developed Backend Services with Java, Spring Boot, and Go, connected with SAP."
+      ],
+      "skills": [
+        "Swift",
+        "UIKit",
+        "SwiftUI",
+        "Go",
+        "Java",
+        "SAP"
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
+      "institution": "Inonu University",
       "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
+      "area": "Electrical & Electronics Engineering, BSc.",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "startDate": "2013",
+      "endDate": "2018",
+      "score": "",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Agile Awareness, Scrum and Basic SAFe",
+      "date": "2024-01",
+      "issuer": "Projera",
+      "url": ""
+    },
+    {
+      "name": "Create the User Interface with SwiftUI",
+      "date": "2022-12",
+      "issuer": "Meta",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/ZRMFSB7CXTNT"
+    },
+    {
+      "name": "Introduction to iOS Mobile Application Development",
+      "date": "2022-12",
+      "issuer": "Meta",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/WVFEXJZ292UF"
+    },
+    {
+      "name": "Programming Fundamentals in Swift",
+      "date": "2022-12",
+      "issuer": "Meta",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/FDMMJ8D67SES"
     }
   ],
   "skills": [
     {
+      "name": "Swift",
+      "level": "",
+      "keywords": [
+        "iOS"
+      ]
+    },
+    {
+      "name": "SwiftUI",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "UIKit",
+      "level": "",
+      "keywords": [
+        "iOS"
+      ]
+    },
+    {
+      "name": "Golang",
+      "level": "",
+      "keywords": [
+        "Backend Development"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "SpringBoot",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
       "name": "Figma",
-      "level": "Expert",
+      "level": "",
       "keywords": [
         "Design",
         "UI"
       ]
     },
     {
-      "name": "Gitlab",
+      "name": "Zeplin",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
+        "Design",
+        "UI"
       ]
     },
     {
-      "name": "HTML",
-      "level": "Intermediate",
+      "name": "Sketch",
+      "level": "",
       "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
+        "Design",
+        "UI"
       ]
     },
     {
       "name": "Git",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "Version Control",
         "Collaboration",
@@ -261,104 +230,92 @@
       ]
     },
     {
-      "name": "GitHub",
-      "level": "Intermediate",
+      "name": "Python",
+      "level": "",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
+        ""
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
+      "name": "Firebase",
+      "level": "",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        ""
       ]
     },
     {
-      "name": "React",
-      "level": "Intermediate",
+      "name": "Postgresql",
+      "level": "",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        ""
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Turkish",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
+      "language": "English",
       "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "ExpenseMate",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Expense Tracker App",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Built with Swift and SwiftUI"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://bit.ly/4hOtP2P"
     },
     {
-      "name": "Task Manager",
+      "name": "Türk Ticaret Bankası",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "iOS Mobile App",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Built with Swift and SwiftUI"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": ""
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "Hepiyi Sigorta",
+      "isActive": true,
+      "description": "iOS Mobile App",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Built with Swift and SwiftUI"
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://apps.apple.com/tr/app/hepiyi-sigorta/id6451968275"
+    },
+    {
+      "name": "Koç Office Free",
+      "isActive": true,
+      "description": "Koç Holding Office Reservation Platform",
+      "highlights": [
+        "Built with Swift and SwiftUI"
+      ],
+      "url": "https://apps.apple.com/tr/app/ko%C3%A7-office-free/id1571499394"
+    },
+    {
+      "name": "Dinamik",
+      "isActive": true,
+      "description": "Yapı Kredi HR Mobile App",
+      "highlights": [
+        "Built with Swift and SwiftUI"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.ykb.dinamik&hl=tr&pli=1"
+    },
+    {
+      "name": "ESV Mobil",
+      "isActive": true,
+      "description": "Yapı Kredi Bank Retirement Fund Foundation",
+      "highlights": [
+        "Built with Swift and SwiftUI"
+      ],
+      "url": "https://apps.apple.com/tr/app/esv-mobil/id1609917748"
     }
+
   ]
 }
