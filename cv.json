@@ -25,6 +25,11 @@
         "network": "GitHub",
         "username": "ihsanakbay",
         "url": "https://github.com/ihsanakbay"
+      }, 
+      {
+        "network": "Cv",
+        "username": "",
+        "url": "https://flowcv.com/resume/ouvd9emp1j"
       }
     ]
   },
@@ -39,9 +44,7 @@
       "endDate": null,
       "summary": "",
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Developed and maintained iOS App for Türk Ticaret Bankası."
       ],
       "skills": [
         "Swift",
