@@ -36,9 +36,9 @@ const SKILLS_ICONS: Record<string, any> = {
   <ul class="flex flex-col">
     {work.map(({ name, startDate, endDate, position, summary, responsibilities, url, skills, location, location_type }) => {
       const startYear = new Date(startDate).getFullYear()
-      const startMonth = new Date(startDate).getMonth()
+      const startMonth = new Date(startDate).getMonth() + 1
       const endYear = endDate != null ? new Date(endDate).getFullYear() : "Present"
-      const endMonth = endDate != null ? new Date(endDate).getMonth() : ""
+      const endMonth = endDate != null ? new Date(endDate).getMonth() + 1 : ""
       const start = `${startMonth}.${startYear}`
       const end = `${endMonth}${endMonth == "" ? "" : "."}${endYear}`
 
