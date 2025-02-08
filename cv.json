@@ -44,7 +44,12 @@
       "endDate": null,
       "summary": "",
       "responsibilities": [
-        "Developed and maintained iOS App for Türk Ticaret Bankası."
+        "Develop Banking and Insurance apps using Swift, UIKit, and SwiftUI.",
+        "Follow MVVM architecture for scalable and maintainable code.",
+        "Used Combine for reactive programming and data handling.",
+        "Integrate secure APIs and optimize app performance.",
+        "Collaborate with Analysts, Designers, Backend development teams.",
+        "Ensure best practices in coding, testing, and deployment."
       ],
       "skills": [
         "Swift",
