@@ -87,12 +87,11 @@
       "endDate": "2023-10",
       "summary": "",
       "responsibilities": [
-        "Developed and maintained iOS applications using Swift, UIKit, SwiftUI, and 3rd-\nparty libraries.",
+        "Developed and maintained iOS applications using Swift, UIKit, SwiftUI, and third-party libraries.",
         "MVVM, MVVM-C & VIPER architectures were used.",
-        "Participated in the AppStore submission processes, ensuring compliance with\nApple's guidelines.",
-        "Utilized Figma and Zeplin to collaborate closely with the UI/UX design team,\nensuring seamless integration of design elements into iOS applications.",
-        "Collaborated with cross-functional teams in an Agile environment, contributing to\ndaily Stand-up meetings, Sprint Planning, and Retrospectives."
-      ],
+        "Participated in the AppStore submission processes, ensuring compliance with Apple's guidelines.",
+        "Used Figma and Zeplin to collaborate closely with the UI/UX design team, ensuring seamless integration of design elements into iOS applications.",
+        "Collaborated with cross-functional teams in an Agile environment, contributing to daily Stand-up meetings, Sprint Planning, and Retrospectives." ],
       "skills": [
         "Swift",
         "UIKit",
@@ -109,9 +108,9 @@
       "endDate": "2023-03",
       "summary": "",
       "responsibilities": [
-        "Developed and maintained iOS applications using Swift, UIKit, SwiftUI, and 3rd-\nparty libraries without using Storyboards.",
+        "Developed and maintained iOS applications using Swift, UIKit, SwiftUI, and third-party libraries without using Storyboards.",
         "UI/UX Design tools such as Zeplin and Sketch were used.",
-        "Developed Backend Services with Java, Spring Boot, and Go, connected with SAP."
+        "Developed Backend Services with Java, Spring Boot, and Go, connected to SAP."
       ],
       "skills": [
         "Swift",
