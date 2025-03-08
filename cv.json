@@ -41,10 +41,10 @@
       "location": "Ankara, Turkey",
       "url": "https://www.enqura.com/",
       "startDate": "2024-06",
-      "endDate": null,
+      "endDate": "2025-03",
       "summary": "",
       "responsibilities": [
-        "Develop Banking and Insurance apps using Swift, UIKit, and SwiftUI.",
+        "Developed and maintained Banking and Insurance apps using Swift, UIKit, and SwiftUI.",
         "Follow MVVM architecture for scalable and maintainable code.",
         "Used Combine for reactive programming and data handling.",
         "Integrate secure APIs and optimize app performance.",
