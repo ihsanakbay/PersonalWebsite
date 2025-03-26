@@ -45,11 +45,9 @@
       "summary": "",
       "responsibilities": [
         "Developed and maintained Banking and Insurance apps using Swift, UIKit, and SwiftUI.",
-        "Follow MVVM architecture for scalable and maintainable code.",
-        "Used Combine for reactive programming and data handling.",
-        "Integrate secure APIs and optimize app performance.",
-        "Collaborate with Analysts, Designers, Backend development teams.",
-        "Ensure best practices in coding, testing, and deployment."
+        "Followed MVVM architecture for scalable and maintainable code.",
+        "Collaborated with analysts, designers, Backend development teams.",
+        "Established best practices in coding, testing, and deployment."
       ],
       "skills": [
         "Swift",
@@ -67,7 +65,8 @@
       "endDate": "2024-06",
       "summary": "",
       "responsibilities": [
-        "Worked as a Senior Java Backend Developer for Videotron (videotron.com), one\nof Canada's top telecom companies."
+        "Worked as a Senior Java Backend Developer for Videotron (videotron.com), one of Canada's top telecom companies.",
+        "Used Spring Boot, Active MQ, PostgreSQL, and related technologies."
       ],
       "skills": [
         "Java",
@@ -88,10 +87,10 @@
       "summary": "",
       "responsibilities": [
         "Developed and maintained iOS applications using Swift, UIKit, SwiftUI, and third-party libraries.",
-        "MVVM, MVVM-C & VIPER architectures were used.",
-        "Participated in the AppStore submission processes, ensuring compliance with Apple's guidelines.",
-        "Used Figma and Zeplin to collaborate closely with the UI/UX design team, ensuring seamless integration of design elements into iOS applications.",
-        "Collaborated with cross-functional teams in an Agile environment, contributing to daily Stand-up meetings, Sprint Planning, and Retrospectives." ],
+        "Implemented MVVM, MVVM-C & VIPER architectures across multiple projects.",
+        "Managed AppStore submission processes, ensuring compliance with Apple's guidelines.",
+        "Collaborated with UI/UX design team using Figma and Zeplin, ensuring seamless integration of design elements into iOS applications.",
+        "Participated in cross-functional teams in an Agile environment, contributing to daily Stand-up meetings, Sprint Planning, and Retrospectives." ],
       "skills": [
         "Swift",
         "UIKit",
@@ -108,9 +107,7 @@
       "endDate": "2023-03",
       "summary": "",
       "responsibilities": [
-        "Developed and maintained iOS applications using Swift, UIKit, SwiftUI, and third-party libraries without using Storyboards.",
-        "UI/UX Design tools such as Zeplin and Sketch were used.",
-        "Developed Backend Services with Java, Spring Boot, and Go, connected to SAP."
+        "Developed and maintained iOS applications using Swift and UIKit, as well as backend services with Java, Spring Boot, and Go, integrated with SAP."
       ],
       "skills": [
         "Swift",
@@ -287,22 +284,6 @@
       "url": "https://bit.ly/4hOtP2P"
     },
     {
-      "name": "Türk Ticaret Bankası",
-      "isActive": true,
-      "description": "iOS Mobile App",
-      "highlights": [
-      ],
-      "url": ""
-    },
-    {
-      "name": "Hepiyi Sigorta",
-      "isActive": true,
-      "description": "iOS Mobile App",
-      "highlights": [
-      ],
-      "url": "https://apps.apple.com/tr/app/hepiyi-sigorta/id6451968275"
-    },
-    {
       "name": "Koç Office Free",
       "isActive": true,
       "description": "Koç Holding Office Reservation Platform",
@@ -325,7 +306,38 @@
       "highlights": [
       ],
       "url": "https://apps.apple.com/tr/app/esv-mobil/id1609917748"
+    },
+    {
+      "name": "Türk Ticaret Bankası",
+      "isActive": true,
+      "description": "iOS Mobile App",
+      "highlights": [
+      ],
+      "url": ""
+    },
+    {
+      "name": "AXAFit",
+      "isActive": true,
+      "description": "iOS Mobile App",
+      "highlights": [
+      ],
+      "url": "https://apps.apple.com/tr/app/axafit/id1178954904"
+    },
+    {
+      "name": "AXA Acentem",
+      "isActive": true,
+      "description": "iOS Mobile App",
+      "highlights": [
+      ],
+      "url": "https://apps.apple.com/tr/app/axa-acentem/id1455973484"
+    },
+    {
+      "name": "Hepiyi Sigorta",
+      "isActive": true,
+      "description": "iOS Mobile App",
+      "highlights": [
+      ],
+      "url": "https://apps.apple.com/tr/app/hepiyi-sigorta/id6451968275"
     }
-
   ]
 }
