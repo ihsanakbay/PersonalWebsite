@@ -58,10 +58,10 @@
       "endDate": "2025-03",
       "summary": "",
       "responsibilities": [
-        "Developed and maintained Banking and Insurance apps using Swift, UIKit, and SwiftUI.",
-        "Followed MVVM architecture for scalable and maintainable code.",
-        "Collaborated with analysts, designers, Backend development teams.",
-        "Established best practices in coding, testing, and deployment."
+        "Built banking and insurance apps using Swift, UIKit, and SwiftUI.",
+        "Implemented MVVM architecture for modular and scalable code.",
+        "Collaborated with analysts, designers, and backend developers.",
+        "Helped shape and implement best practices for code quality, testing, and release processes."
       ],
       "skills": [
         "Swift",
@@ -76,7 +76,7 @@
       "location": "Ankara, Turkey",
       "url": "https://www.etiya.com",
       "startDate": "2023-11",
-      "endDate": "2024-06",
+      "endDate": "2024-05",
       "summary": "",
       "responsibilities": [
         "Worked as a Senior Java Backend Developer for Videotron (videotron.com), one of Canada's top telecom companies.",
@@ -87,7 +87,8 @@
         "Spring Boot",
         "SQL",
         "Bitbucket",
-        "Postgresql"
+        "Postgresql",
+        "ActiveMQ"
       ]
     },
     {
@@ -100,11 +101,12 @@
       "endDate": "2023-10",
       "summary": "",
       "responsibilities": [
-        "Developed and maintained iOS applications using Swift, UIKit, SwiftUI, and third-party libraries.",
-        "Implemented MVVM, MVVM-C & VIPER architectures across multiple projects.",
-        "Managed AppStore submission processes, ensuring compliance with Apple's guidelines.",
+        "Developed and maintained multiple iOS applications using Swift, UIKit, SwiftUI.",
+        "Applied architectural patterns including MVVM, MVVM-C, and VIPER.",
+        "Handled App Store submissions and compliance with Apple guidelines.",
         "Collaborated with UI/UX design team using Figma and Zeplin, ensuring seamless integration of design elements into iOS applications.",
-        "Participated in cross-functional teams in an Agile environment, contributing to daily Stand-up meetings, Sprint Planning, and Retrospectives." ],
+        "Participated in cross-functional teams in an Agile environment, contributing to daily Stand-up meetings, Sprint Planning, and Retrospectives."
+      ],
       "skills": [
         "Swift",
         "UIKit",
