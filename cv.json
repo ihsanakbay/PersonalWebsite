@@ -35,6 +35,21 @@
   },
   "work": [
     {
+      "name": "Akakce Information Technologies",
+      "position": "Mobile Developer",
+      "location_type": "Hybrid",
+      "location": "Ankara, Turkey",
+      "url": "https://www.akakce.com",
+      "startDate": "2025-04",
+      "endDate": "Present",
+      "summary": "",
+      "responsibilities": [
+
+      ],
+      "skills": [
+      ]
+    },
+    {
       "name": "Enqura Information Technologies",
       "position": "iOS Developer",
       "location_type": "Remote",
