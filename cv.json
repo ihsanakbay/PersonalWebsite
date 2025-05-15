@@ -59,7 +59,7 @@
       "summary": "",
       "responsibilities": [
         "Built banking and insurance apps using Swift, UIKit, and SwiftUI.",
-        "Implemented MVVM architecture for modular and scalable code.",
+        "Implemented MVVM and MVVM-C architecture for modular and scalable code.",
         "Collaborated with analysts, designers, and backend developers.",
         "Helped shape and implement best practices for code quality, testing, and release processes."
       ],
@@ -102,7 +102,7 @@
       "summary": "",
       "responsibilities": [
         "Developed and maintained multiple iOS applications using Swift, UIKit, SwiftUI.",
-        "Applied architectural patterns including MVVM, MVVM-C, and VIPER.",
+        "Migrated legacy C# .NET to Java Spring Boot backend for the \"Dinamik\" application.",
         "Handled App Store submissions and compliance with Apple guidelines.",
         "Collaborated with UI/UX design team using Figma and Zeplin, ensuring seamless integration of design elements into iOS applications.",
         "Participated in cross-functional teams in an Agile environment, contributing to daily Stand-up meetings, Sprint Planning, and Retrospectives."
