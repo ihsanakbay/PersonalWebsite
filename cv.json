@@ -43,7 +43,7 @@
       "startDate": "2025-04",
       "summary": "",
       "responsibilities": [
-        "Developed and maintained Akakçe's iOS and Android applications."
+        "Developed and maintained the iOS and Android applications for Akakçe, the leading comparison shopping platform."
       ],
       "skills": [
       ]
@@ -58,9 +58,8 @@
       "endDate": "2025-03",
       "summary": "",
       "responsibilities": [
-        "Built banking and insurance apps using Swift, UIKit, and SwiftUI.",
+        "Built banking and insurance company apps for iOS.",
         "Implemented MVVM and MVVM-C architecture for modular and scalable code.",
-        "Collaborated with analysts, designers, and backend developers.",
         "Helped shape and implement best practices for code quality, testing, and release processes."
       ],
       "skills": [
@@ -79,7 +78,7 @@
       "endDate": "2024-05",
       "summary": "",
       "responsibilities": [
-        "Worked as a Senior Java Backend Developer for Videotron (videotron.com), one of Canada's top telecom companies.",
+        "Worked as a Senior Java Backend Developer for Videotron, a leading telecommunications company in Canada.",
         "Used Spring Boot, Active MQ, PostgreSQL, and related technologies."
       ],
       "skills": [
@@ -88,7 +87,9 @@
         "SQL",
         "Bitbucket",
         "Postgresql",
-        "ActiveMQ"
+        "Kafka",
+        "ActiveMQ",
+        "RabbitMQ"
       ]
     },
     {
@@ -101,11 +102,10 @@
       "endDate": "2023-10",
       "summary": "",
       "responsibilities": [
-        "Developed and maintained multiple iOS applications using Swift, UIKit, SwiftUI.",
+        "Developed and maintained multiple iOS applications.",
         "Migrated legacy C# .NET to Java Spring Boot backend for the \"Dinamik\" application.",
         "Handled App Store submissions and compliance with Apple guidelines.",
-        "Collaborated with UI/UX design team using Figma and Zeplin, ensuring seamless integration of design elements into iOS applications.",
-        "Participated in cross-functional teams in an Agile environment, contributing to daily Stand-up meetings, Sprint Planning, and Retrospectives."
+        "Collaborated with UI/UX design team using Figma and Zeplin, ensuring seamless integration of design elements into iOS applications."
       ],
       "skills": [
         "Swift",
@@ -123,7 +123,7 @@
       "endDate": "2023-03",
       "summary": "",
       "responsibilities": [
-        "Developed and maintained iOS applications using Swift and UIKit, as well as backend services with Java, Spring Boot, and Go, integrated with SAP."
+        "Developed and maintained internal iOS applications and Backend services integrated with SAP."
       ],
       "skills": [
         "Swift",
@@ -201,13 +201,6 @@
       "level": "",
       "keywords": [
         "Backend Development"
-      ]
-    },
-    {
-      "name": "ObjectiveC",
-      "level": "",
-      "keywords": [
-        "iOS"
       ]
     },
     {
@@ -291,13 +284,22 @@
   ],
   "projects": [
     {
-      "name": "ExpenseMate",
+      "name": "Akakçe",
       "isActive": true,
-      "description": "Expense Tracker App",
+      "description": "",
       "highlights": [
-        "Built with Swift and SwiftUI"
+        "Built with Swift and UIKit"
       ],
-      "url": "https://bit.ly/4hOtP2P"
+      "url": "https://apps.apple.com/tr/app/akak%C3%A7e-en-ucuz-fiyat%C4%B1-bul/id652120057"
+    },
+    {
+      "name": "Banayeni",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "Built with Swift, UIKit, and SwiftUI"
+      ],
+      "url": "https://apps.apple.com/xk/app/banayeni-i-kinci-el-al-ve-sat/id6478958805"
     },
     {
       "name": "Koç Office Free",
@@ -338,14 +340,6 @@
       "highlights": [
       ],
       "url": "https://apps.apple.com/tr/app/axafit/id1178954904"
-    },
-    {
-      "name": "AXA Acentem",
-      "isActive": true,
-      "description": "iOS Mobile App",
-      "highlights": [
-      ],
-      "url": "https://apps.apple.com/tr/app/axa-acentem/id1455973484"
     },
     {
       "name": "Hepiyi Sigorta",
